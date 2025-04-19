@@ -48,7 +48,7 @@ To test Urban Ladder's:
 ## 🚀 How to Run the Tests
 
 1. Clone the repository  
-   `git clone https://github.com/your-username/urban-ladder-cucumber.git`
+   `https://github.com/theabhishekmauryaa/Urban_Ladde_Cucumber-.gitt`
 
 2. Open the project in IntelliJ or Eclipse
 
