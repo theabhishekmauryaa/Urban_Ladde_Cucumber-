@@ -39,11 +39,9 @@ To test Urban Ladder's:
 
 ## 🎥 Video Presentation
 
-Watch the full walkthrough of the automation project:
 
 🔗 [Click here to watch the video](https://your-video-link.com)
 
-*(Replace the above link with your YouTube or Drive video)*
 
 ---
 
