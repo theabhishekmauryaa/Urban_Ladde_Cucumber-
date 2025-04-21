@@ -40,7 +40,7 @@ To test Urban Ladder's:
 ## 🎥 Video Presentation
 
 
-🔗 [Click here to watch the video](https://your-video-link.com)
+🔗 [Click here to watch the video]()
 
 
 ---
